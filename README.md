@@ -42,7 +42,7 @@ blobImage.toDataURL(function(err, dataURL) {
 });
 ```
 
-#### BlobImage.release
+#### BlobImage.release()
 Release the BlobImage from the buffer.
 
 ```js
