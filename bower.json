@@ -1,7 +1,7 @@
 {
   "name": "blobimage",
   "main": "blobimage.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "iwillwen <willwengunn@gmail.com>"
   ],
