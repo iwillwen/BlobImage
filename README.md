@@ -4,7 +4,7 @@ Load images as blob and store them in buffer of the bowser
 
 ### Installation
 ```bash
-$ npm install BlobImage
+$ npm install blobimage
 $ bower install BlobImage
 ```
 
