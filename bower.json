@@ -1,0 +1,23 @@
+{
+  "name": "BlobImage",
+  "main": "blobimage.js",
+  "version": "1.0.0",
+  "authors": [
+    "iwillwen <willwengunn@gmail.com>"
+  ],
+  "description": "Load images as blob and store them in buffer of the bowser",
+  "keywords": [
+    "blob",
+    "image",
+    "html5"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/iwillwen/BlobImage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

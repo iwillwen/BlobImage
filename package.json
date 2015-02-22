@@ -1,0 +1,28 @@
+{
+  "name": "BlobImage",
+  "version": "1.0.0",
+  "description": "Load images as blob and store them in buffer of the bowser",
+  "main": "blobimage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iwillwen/BlobImage"
+  },
+  "keywords": [
+    "blob",
+    "images",
+    "html5"
+  ],
+  "author": "willwengunn@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwillwen/BlobImage/issues"
+  },
+  "homepage": "https://github.com/iwillwen/BlobImage",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.8.0"
+  }
+}
