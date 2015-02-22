@@ -1,4 +1,4 @@
-## BlobImage ![NPM version](https://img.shields.io/npm/v/BlobImage.svg?style=flat) 
+## BlobImage ![NPM version](https://img.shields.io/npm/v/blobimage.svg?style=flat) 
 
 Load images as blob and store them in buffer of the bowser
 
