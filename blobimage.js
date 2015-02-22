@@ -5,6 +5,9 @@
  */
 
 (function(undefined) {
+  var Blob = window.Blob || window.WebkitBlob;
+  var URL = window.URL || window.webkitURL;
+
   function BlobImage(src) {
     if (!(this instanceof BlobImage)) return new BlobImage(src);
 
