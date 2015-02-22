@@ -1,6 +1,6 @@
 {
   "name": "blobimage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load images as blob and store them in buffer of the bowser",
   "main": "blobimage.js",
   "scripts": {
